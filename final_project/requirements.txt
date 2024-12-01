@@ -1,0 +1,8 @@
+sys
+os
+requests
+freecurrencyapi
+python-dotenv
+countryinfo
+iso639-lang
+iso3166
